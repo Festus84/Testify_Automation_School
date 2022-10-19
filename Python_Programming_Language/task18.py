@@ -8,4 +8,4 @@ class Human:
 
 
 Samuel = Human()
-print(Samuel.name, Samuel.leg_count, Samuel.can_walk, Samuel.get_name_leg_count_can_walk()
+print(Samuel.name, Samuel.leg_count, Samuel.can_walk, Samuel.get_name_leg_count_can_walk)
