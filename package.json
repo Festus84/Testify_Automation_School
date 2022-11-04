@@ -1,0 +1,23 @@
+{
+  "name": "testify_automation_school",
+  "version": "1.0.0",
+  "description": "Automation school trainning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Festus84/Testify_Automation_School.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Festus84/Testify_Automation_School/issues"
+  },
+  "homepage": "https://github.com/Festus84/Testify_Automation_School#readme",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  }
+}
